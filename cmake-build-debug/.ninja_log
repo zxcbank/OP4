@@ -1,17 +1,17 @@
 # ninja log v5
 2	911	7229989508770191	bin/CMakeFiles/labwork4.dir/main.cpp.obj	670fcdb366d70a96
+9270	11777	7229989617444306	tests/argparser_tests.exe	abab25beba6a5faa
 0	1077	7229989510410826	lib/CMakeFiles/argparser.dir/ArgParser.cpp.obj	22fe152853799dbd
 1078	1180	7229989511474096	lib/libargparser.a	5674fa0094349884
+6	6838	7229989567883897	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	281506ed77ca215
+3	2015	7229989519808375	tests/CMakeFiles/argparser_tests.dir/argparser_test.cpp.obj	a4b59267631cd30
 1180	1330	7229989512924849	bin/labwork4.exe	84583a7daa16eb6f
 5	1626	7229989515935780	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	875e0bb8327aed38
 5	1909	7229989518759736	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	b8094d81f8d89860
-3	2015	7229989519808375	tests/CMakeFiles/argparser_tests.dir/argparser_test.cpp.obj	a4b59267631cd30
 4	2969	7229989529316639	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	82fa4aa666205f71
-6	6838	7229989567883897	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	281506ed77ca215
 6839	9226	7229989591927438	lib/libgtest.a	e57eeb976319e0b0
 9227	9270	7229989592390995	lib/libgtest_main.a	a91ee36f76f59a12
 9226	9537	7229989595047384	lib/libgmock.a	2bd25c478603fd5d
 9537	9572	7229989595406185	lib/libgmock_main.a	3fd09052a11ec5ea
-9270	11777	7229989617444306	tests/argparser_tests.exe	abab25beba6a5faa
 9270	11777	7229989617444306	tests/argparser_tests[1]_tests.cmake	abab25beba6a5faa
 9270	11777	7229989617444306	C:/itmo/CLionProjects/labwork4-zxcbank Ч копи€/cmake-build-debug/tests/argparser_tests[1]_tests.cmake	abab25beba6a5faa
