@@ -1,0 +1,3 @@
+C:/itmo/CLionProjects/labwork4-zxcbank — копия/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/itmo/CLionProjects/labwork4-zxcbank — копия/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/itmo/CLionProjects/labwork4-zxcbank — копия/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
